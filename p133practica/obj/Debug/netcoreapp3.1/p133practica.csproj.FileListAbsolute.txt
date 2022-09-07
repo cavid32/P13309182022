@@ -1,0 +1,14 @@
+C:\Users\cavid\source\repos\p133practica\p133practica\bin\Debug\netcoreapp3.1\p133practica.exe
+C:\Users\cavid\source\repos\p133practica\p133practica\bin\Debug\netcoreapp3.1\p133practica.deps.json
+C:\Users\cavid\source\repos\p133practica\p133practica\bin\Debug\netcoreapp3.1\p133practica.runtimeconfig.json
+C:\Users\cavid\source\repos\p133practica\p133practica\bin\Debug\netcoreapp3.1\p133practica.runtimeconfig.dev.json
+C:\Users\cavid\source\repos\p133practica\p133practica\bin\Debug\netcoreapp3.1\p133practica.dll
+C:\Users\cavid\source\repos\p133practica\p133practica\bin\Debug\netcoreapp3.1\p133practica.pdb
+C:\Users\cavid\source\repos\p133practica\p133practica\obj\Debug\netcoreapp3.1\p133practica.csproj.AssemblyReference.cache
+C:\Users\cavid\source\repos\p133practica\p133practica\obj\Debug\netcoreapp3.1\p133practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\source\repos\p133practica\p133practica\obj\Debug\netcoreapp3.1\p133practica.AssemblyInfoInputs.cache
+C:\Users\cavid\source\repos\p133practica\p133practica\obj\Debug\netcoreapp3.1\p133practica.AssemblyInfo.cs
+C:\Users\cavid\source\repos\p133practica\p133practica\obj\Debug\netcoreapp3.1\p133practica.csproj.CoreCompileInputs.cache
+C:\Users\cavid\source\repos\p133practica\p133practica\obj\Debug\netcoreapp3.1\p133practica.dll
+C:\Users\cavid\source\repos\p133practica\p133practica\obj\Debug\netcoreapp3.1\p133practica.pdb
+C:\Users\cavid\source\repos\p133practica\p133practica\obj\Debug\netcoreapp3.1\p133practica.genruntimeconfig.cache
